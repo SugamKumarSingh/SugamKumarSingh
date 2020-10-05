@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Currently we are working on two open source projects, including our website itself. It is going to be an open library of codes, where you can find almost all types of code. It is and will always be FREE.
 
-<p align="center">I'm glad you were here.<br><b>This is going to be another amazing day in your life.</b></p>
+<p align="center">I'm glad you are here.<br><b>This is going to be another amazing day in your life.</b></p>
